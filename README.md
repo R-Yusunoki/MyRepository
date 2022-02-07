@@ -5,7 +5,7 @@
 
 # DEMO
 
-![](./DEMO.png)
+[](./DEMO.png)
 
 
 # Features
