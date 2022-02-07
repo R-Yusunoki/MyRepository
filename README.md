@@ -5,7 +5,7 @@
 
 # DEMO
 
-![]<img src="./DEMO.png"width="100px">
+![](./DEMO.png = 100x100)
 
 
 # Features
