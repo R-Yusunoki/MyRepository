@@ -5,7 +5,7 @@
 
 # DEMO
 
-<img src="DEMO.png" width="300">
+<img src="DEMO.png" width="200">
 
 
 # Features
@@ -26,7 +26,7 @@ Windows10での動作確認済み。
 
 【ゲーム】<br>
 十字キー・Tab・Space・0キー を使用します。
-操作方法は別途「操作方法.txt」に記載しています。<br><br>
+操作方法は別途「How_to_play.txt」に記載しています。<br><br>
 【行列クラス multimat】<br>
 ２つの行列に対応する２次元配列 A[..][..], B[..][..] に対して、<br>
 コンストラクタ「multimat<decltype(A), decltype(B)>(A, B)」により、A×B についてのインスタンスをつくります。<br><br>
