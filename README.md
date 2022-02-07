@@ -5,7 +5,7 @@
 
 # DEMO
 
-![](http://url.to/./DEMO.png = 100x100)
+<img src="DEMO.png" width="100">
 
 
 # Features
