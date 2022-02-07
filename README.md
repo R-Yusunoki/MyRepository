@@ -30,8 +30,7 @@ Windows10での動作確認済み。
 【行列クラス multimat】<br>
 ２つの行列に対応する２次元配列 A[..][..], B[..][..] に対して、<br>
 コンストラクタ「multimat<decltype(A), decltype(B)>(A, B)」により、A×B についてのインスタンスをつくります。<br>　
-publicメンバ関数は以下の通り。<br><br>
-
+（publicメンバ関数は以下の通り。）<br><br>
 (bool)get_within_sd(): A×B を定義できるとき true を返す。<br>
 (int)get_rows(): 積の行数を返す。<br>
 (int)get_columns(): 積の列数を返す。<br>
