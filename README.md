@@ -5,7 +5,7 @@
 
 # DEMO
 
-<img src="DEMO.png" width="100">
+<img src="DEMO.png" width="300">
 
 
 # Features
